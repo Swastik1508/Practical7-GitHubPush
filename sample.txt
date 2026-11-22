@@ -1,0 +1,2 @@
+This is my sample file for Practical 7.
+I am learning how to upload local code to GitHub.
